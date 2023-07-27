@@ -11,7 +11,7 @@
         android:id="@+id/resenahoteles"
         android:layout_width="200dp"
         android:layout_height="300dp"
-        android:text="@string/resenaacerca"
+        android:text="@string/descripcionacerca"
         android:textColor="#E7E690"
         android:textSize="20dp"
         android:textStyle="bold"
